@@ -3,6 +3,7 @@ algoritmo "Mundo Místico 0.4"
 // Autor : João Rafael - Kromodoro
 // Data : 14/03/2018
 // Seção de Declarações 
+//
 var
    Mxp, Mst, HIT, Mhp, Chp, Cxp, Cst, Level, Forc, Talen, Agil, Personagem, MUNDO, MOB1, Magia, Mhp2, Mlevel, Mgold, Cgold: inteiro
    Loguin, Senha, Char, Nick, SN, Tecla, M1, M2, M3, M4, M5, Mnick: caractere
