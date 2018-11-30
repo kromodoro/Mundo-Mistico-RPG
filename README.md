@@ -30,9 +30,9 @@
  Escolha dos mapas (1,2,3)
  
  ##### PROGRAMADOR
- PROCEDIMENTO (LevelUp) L:7~19 <br>
- ENQUANTO (Escolha dos personagens) L:57~181<br>
- > enquanto (SN L:57) > timer(L:58~71) > escolha (personagem L:78~180) <br>
- ENQUANTO (Escolha dos mapas) L:208~582
+ PROCEDIMENTO (LevelUp) L:7 to 19 <br>
+ ENQUANTO (Escolha dos personagens) L:57 to 181<br>
+ > enquanto (SN L:57) > timer(L:58 to 71) > escolha (personagem L:78 to 180) <br>
+ ENQUANTO (Escolha dos mapas) L:208 to 582 <br>
  > Enquanto > Escolha (mundo L:225) > escolha (monstro L:252 ) > enquanto (Mhp L:460) > escolha (personagem L:483)
  
